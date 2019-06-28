@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="upperColor">#2196F3</color>
+    <color name="lowerColor">#00BCD4</color>
+
+    <color name="editUpperColor">#347291</color>
+    <color name="editLowerColor">#1B598F</color>
+
+    <color name="toolBarColor">#673AB7</color>
+    <color name="someThingColor">#364494</color>
+</resources>

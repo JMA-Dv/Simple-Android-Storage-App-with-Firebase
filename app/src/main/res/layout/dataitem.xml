@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="10dp"
+    android:elevation="10dp"
+    app:cardElevation="10dp"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+
+        <TextView
+            android:id="@+id/title_Item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="1"
+            android:padding="5dp"
+            android:text="Title"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@android:color/holo_blue_bright" />
+
+        <TextView
+            android:id="@+id/description_Item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:padding="5dp"
+            android:text="Description"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@android:color/holo_blue_bright" />
+        <TextView
+            android:id="@+id/budget_Item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:padding="5dp"
+            android:text="$6000"
+            android:textStyle="bold"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@android:color/holo_purple" />
+
+        <TextView
+            android:id="@+id/date_Item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:maxLines="2"
+            android:padding="10dp"
+            android:gravity="center"
+            android:background="@drawable/editdesign"
+            android:text="20 july, 2019"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textColor="@android:color/holo_blue_bright" />
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
