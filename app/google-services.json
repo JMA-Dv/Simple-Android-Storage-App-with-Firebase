@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "203728345139",
+    "firebase_url": "https://loginapp-35b2f.firebaseio.com",
+    "project_id": "loginapp-35b2f",
+    "storage_bucket": "loginapp-35b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203728345139:android:7f4c7df9dde98fe8",
+        "android_client_info": {
+          "package_name": "com.mataprojects.androidcourse_firebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203728345139-n9h1nhg8atlifc6h3adm5jib5c85d0hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt1HMqB_wOBYVhoti6gC4CLYImLfWkWO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203728345139-n9h1nhg8atlifc6h3adm5jib5c85d0hj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
